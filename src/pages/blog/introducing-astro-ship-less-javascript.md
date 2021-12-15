@@ -1,26 +1,28 @@
 ---
 layout: $/layouts/post.astro
 title: Introducing Astro - Ship Less JavaScript
-description: There's a simple secret to building a faster website — just ship less.
+description: There's a simple secret to building a faster website — just ship less. Milano
 tags:
   - astro
   - jam-stack
+  - svelte
 author: Fred K. Schott
 authorTwitter: FredKSchott
 date: 2021-12-08T08:10:40.636Z
 image: https://images.unsplash.com/photo-1589409514187-c21d14df0d04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
 category: design
 ---
+Milano the best club in the world.
 
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
 
 Today I'm excited to publicly share Astro: a new kind of static site builder that delivers lightning-fast performance with a modern developer experience. To design Astro, we borrowed the best parts of our favorite tools and then added a few innovations of our own, including:
 
-- Bring Your Own Framework (BYOF): Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.
-- 100% Static HTML, No JS: Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.
-- On-Demand Components: Need some JS? Astro can automatically hydrate interactive components when they become visible on the page. If the user never sees it, they never load it.
-- Fully-Featured: Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.
-- SEO Enabled: Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.
+* Bring Your Own Framework (BYOF): Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.
+* 100% Static HTML, No JS: Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.
+* On-Demand Components: Need some JS? Astro can automatically hydrate interactive components when they become visible on the page. If the user never sees it, they never load it.
+* Fully-Featured: Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.
+* SEO Enabled: Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.
 
 ## H1 is good
 
