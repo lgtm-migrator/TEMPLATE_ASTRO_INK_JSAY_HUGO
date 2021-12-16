@@ -12,7 +12,7 @@ date: 2021-12-08T08:10:40.636Z
 image: https://images.unsplash.com/photo-1589409514187-c21d14df0d04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
 category: design
 ---
-Milano the best club in the world.
+1. Milano the best club in the world.
 
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
 
@@ -33,5 +33,7 @@ Today I'm excited to publicly share Astro: a new kind of static site builder tha
 [I know](they-are-better)
 
 This post marks the first public beta release of Astro. Missing features and bugs are still to be expected at this early stage. There are still some months to go before an official 1.0 release, but there are already several fast sites built with Astro in production today. We would love your early feedback as we move towards a v1.0 release later this year.
+
+![](/images/uploads/geometric-g2dc583ecd_640-1-.jpg)
 
 > To learn more about Astro and start building your first site, check out the project README.
